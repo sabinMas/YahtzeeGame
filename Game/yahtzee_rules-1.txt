@@ -1,0 +1,67 @@
+Setup
+- Each player should take a score sheet and a pen or pencil.
+- To decide who goes first, each player rolls all 5 dice. The player with the highest total goes first.
+- Play proceeds clockwise after the first turn.
+On Your Turn
+Each turn, you are allowed to roll the dice up to three times to score as many points as possible.
+1. First Roll:
+   - Roll all 5 dice.
+   - You can stop and score or choose to roll again.
+   - If rolling again, you can re-roll any or all dice.
+2. Second Roll:
+   - Re-roll any dice that are not "keepers" from the previous roll.
+   - You may stop and score or roll again.
+3. Third Roll:
+   - You may re-roll any or all dice, including keepers.
+   - After this roll, you must score in a box.
+Scoring Rules
+- You must fill in a box on every turn.
+- You cannot score in the same box twice.
+- If you cannot score in any category, you must write a zero in any available box.
+- The score sheet is divided into Upper Section and Lower Section.
+Upper Section
+In the upper section, you only count dice of a specific number:
+- Aces (Ones): Total of all ones rolled.
+- Twos: Total of all twos rolled.
+- Threes: Total of all threes rolled.
+- Fours: Total of all fours rolled.
+- Fives: Total of all fives rolled.
+- Sixes: Total of all sixes rolled.
+Bonus:
+If your Upper Section total is 63 points or more, you receive a 35-point bonus.
+(Achieved by rolling at least three of each number: 3+6+9+12+15+18 = 63.)
+Perfect Score:
+The highest possible score in the upper section is 140 points (if rolling five of each number).
+Lower Section
+The lower section consists of special combinations:
+- Three of a Kind:
+  - At least three of the same number.
+  - Score = sum of all dice.
+- Four of a Kind:
+  - At least four of the same number.
+  - Score = sum of all dice.
+- Full House:
+  - Three of one number and two of another.
+  - Score = 25 points.
+- Small Straight:
+  - A sequence of four consecutive numbers (e.g., 1-2-3-4).
+  - Score = 30 points.
+- Large Straight:
+  - A sequence of five consecutive numbers (e.g., 2-3-4-5-6).
+  - Score = 40 points.
+- YAHTZEE (Five of a Kind):
+  - All five dice are the same number.
+  - Score = 50 points.
+- YAHTZEE BONUS:
+  - If you roll a second YAHTZEE after already scoring 50 points,
+    you receive 100 extra points.
+  - Place a checkmark in the YAHTZEE BONUS box.
+  - You may also score in an available Upper Section box.
+  - If the appropriate Upper Section box is filled, you may score in any Lower Section box.
+Example:
+You roll five fours.
+- If you haven’t scored YAHTZEE yet, you mark 50 points.
+- If you already have a YAHTZEE, you score 100 bonus points.
+- If "Fours" is already filled in, you may use it for another category (e.g., Large Straight).
+Winning the Game
+After 13 rounds, the player with the highest total score wins!
